@@ -1,0 +1,179 @@
+h2{
+  font-size: 3rem;
+  font-weight:700;
+  padding-left: 8%;
+  color:#060930;
+  padding-top: 4rem;
+
+}
+
+/*upper-title*/
+#title{
+
+  padding-bottom: 2rem;
+}
+.title-button{
+  padding-left: 1%;
+}
+.upper-title{
+  background-color:#2B3752;
+}
+.navbar-brand-font{
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+
+.btn-outline-success{
+  color:#fff;
+  border-color: #fff;
+}
+/*contenttitle*/
+.tite-heading{
+  font-weight: bold;
+  font-size: 4.5rem;
+  padding-bottom: 1rem;
+  color:#060930;
+}
+
+.content-title{
+  padding-top: 12rem;
+  padding-left: 8%;
+}
+.image-title{
+  width:68%;
+  position: relative;
+  left:4rem;
+}
+
+
+/*slideshow*/
+
+
+.slideshow-heading{
+  font-size: 3rem;
+  font-weight:700;
+  padding-left: 12%;
+  color:#060930;
+  padding-top: 3rem;
+
+}
+.slideshow-image{
+  width:40em;
+  height:35em;
+}
+#slideshow{
+  background-color: #DDFFBC;
+  padding-bottom: 4%;
+  padding-top: 3%;
+}
+
+.carousel-image{
+  padding-top: 3rem;
+  padding-left: 3.5rem;
+}
+
+.slideshow-body{
+  padding-left: 12%;
+  padding-top: 2rem;
+  line-height: 1.5;
+  font-size: 1.2rem;
+
+}
+
+/*features*/
+
+#features{
+  padding-top: 3%;
+  padding-bottom: 10%;
+}
+
+.icon{
+  float:left;
+  text-align: left;
+  padding-right: 2%;
+  padding-bottom: 2%;
+
+}
+
+.row-pad{
+  padding-left: 8%;
+padding-top: 2%;
+
+
+}
+.hover1{
+  color:#025955;
+
+}
+.hover1:hover{
+  color:#28a745;
+}
+.icon-content{
+  padding-top: 1rem;
+}
+
+
+/*buy*/
+
+#buy{
+  background-color: #DDFFBC;
+  padding-bottom: 3%;
+
+}
+.buy-price{
+  font-size:2rem;
+  font-weight: bolder;
+}
+.buy-images{
+
+width:20%;
+height:15%;
+
+}
+
+.buy-title{
+  padding-bottom: 2%;
+}
+.row-buy{
+  padding-left: 14%;
+  padding-bottom: 1.5%;
+  padding-top: 1.5%;
+
+}
+.card-img-top{
+  height: 15rem;
+  width: 20rem;
+}
+.card-title{
+  font-weight:400;
+}
+.col-md-6{
+  padding-top: 2%;
+}
+
+/*message*/
+#message{
+  padding-bottom: 4%;
+}
+
+.form-content{
+  padding-top: 2rem;
+  padding-left: 8%;
+}
+
+.submit-button{
+  padding-left:1rem;
+}
+
+/*subhuam
+*/
+
+.subhuam{
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  background-color: #2B3752;
+  color:#E0E7F1;
+  font-weight: lighter;
+
+}
