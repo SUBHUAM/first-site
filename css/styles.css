@@ -82,6 +82,7 @@ h2{
 
 }
 
+
 @media screen and (max-width:990px){
 
   .slideshow-image{
@@ -90,25 +91,30 @@ h2{
   }
   .carousel-image{
     padding-top: 3%;
-    text-align: center;
-    position: relative;
-    left:25%;
   }
   .slideshow-heading{
-    font-size: 3rem;
-    font-weight:700;
     padding-left: 8%;
-    color:#060930;
-    padding-top: 3rem;
-
   }
   .slideshow-body{
     padding-left: 8%;
-    padding-top: 2rem;
-    line-height: 1.5;
-    font-size: 1.2rem;
 
   }
+  .carousel-column-2{
+    position: relative;
+    left:20%;
+  }
+
+}
+
+@media screen and (max-width:550px){
+
+
+  .carousel-column-2{
+    position: relative;
+    left:4%;
+  }
+
+
 
 }
 
