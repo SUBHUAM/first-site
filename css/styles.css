@@ -12,6 +12,7 @@ h2{
 
   padding-bottom: 2rem;
 }
+
 .title-button{
   padding-left: 1%;
 }
@@ -58,9 +59,10 @@ h2{
 
 }
 .slideshow-image{
-  width:40em;
-  height:35em;
+  width:50rem;
+  height:30rem;
 }
+
 #slideshow{
   background-color: #DDFFBC;
   padding-bottom: 4%;
@@ -68,8 +70,8 @@ h2{
 }
 
 .carousel-image{
-  padding-top: 3rem;
-  padding-left: 3.5rem;
+  padding-top: 3%;
+  padding-left: 2%;
 }
 
 .slideshow-body{
